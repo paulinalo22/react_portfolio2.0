@@ -82,10 +82,10 @@ function Portfolio() {
                 <a href="https://arcane-badlands-49617.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                   <img src={project5} className="img-fluid p-2" alt="Weather Dashboard" /></a>
                 <div className="card-body">
-                  <h2 className="card-title">Workout Tracker</h2>
-                  <p className="card-text">Daily and 5-days weather forecast application</p>
-                  <a href="https://arcane-badlands-49617.herokuapp.com/" className="btn btn-primary ml-3" rel="noopener noreferrer" target="_blank">Let's get Healthy</a>
-                  <a href="https://github.com/paulinalo22/homework_workout" className="btn btn-primary ml-3" rel="noopener noreferrer" target="_blank">Github Repo</a>
+                  <h2 className="card-title">Gamer Dash</h2>
+                  <p className="card-text">Super fun full stack application allows users to have fun with the games available in our database. Unlike other similar apps, users have the option to create an account and upload their own videogames for others to discover.</p>
+                  <a href="http://gamer-dash.herokuapp.com/signup" className="btn btn-primary ml-3" rel="noopener noreferrer" target="_blank">Let's get Play!</a>
+                  <a href="https://github.com/hoffman1200/Project3" className="btn btn-primary ml-3" rel="noopener noreferrer" target="_blank">Github Repo</a>
                 </div>
               </div>
             </div>

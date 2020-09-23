@@ -64,6 +64,7 @@ body{
 .about{
   width: 800px;
   height: 500px;
+  z-index: 100px;
 }
 
 .contact{

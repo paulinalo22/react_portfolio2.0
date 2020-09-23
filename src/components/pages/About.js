@@ -21,8 +21,8 @@ function About() {
     <div className="d-flex justify-content-center">
       <section className="about px-4 my-5">
         <div className="me py-5">
-          <h5 className="text-uppercase font-os font-size-16 text-muted">Please Stalk Me!</h5>
-          <h1 className="text-uppercase font-staat font-size-34">Now this is the story...</h1>
+          <h5 className="font-ram font-size-34 py-2">Please Stalk Me!</h5>
+          <h1 className="font-ram font-size-34 py-2">Now this is the story...</h1>
         </div>
         <div className="row m-0">
           <div className="col-sm-11">
